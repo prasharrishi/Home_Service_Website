@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.body-content {
+  display: flex;
+}
+
+.introduction {
+  margin-left: 7.5rem;
+  margin-right: 1.06rem;
+  /* flex: 1; */
+  margin-top: 10.75rem;
+  max-width: 37.5rem;
+}
+
+.heading {
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 65px;
+}
+
+.sub-heading {
+  margin-top: 2rem;
+  color: gray;
+}
+
+.schedule-button {
+  margin-top: 2rem;
+  text-align: center;
+  color: black;
+  padding: 1.688rem 2rem;
+  border-color: transparent;
+  font-size: 16px;
+  border-radius: 30px;
+  background-color: #FFBA18;
+}
+
+.border-image {
+  flex: 1;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 50%;
+  height: 50rem;
+  background-color: #80C1EF;
+  border-radius: 0px 0px 0px 27.875rem;
+}
+
+.women-image {
+  margin-right: 1.8rem;
+  object-fit: contain;
+  margin-top: 7.6rem;
+}

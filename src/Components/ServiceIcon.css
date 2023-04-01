@@ -1,0 +1,28 @@
+.icon {
+
+    margin-left: 7.5rem;
+    height: 341px;
+    width: 284px;
+    padding-left: 36px;
+    padding-right: 36px;
+    border: 1px solid black;
+}
+
+.iconImage {
+    display: grid;
+    padding-top: 2.125rem;
+    padding-bottom: 2.125rem;
+    place-items: center;
+}
+
+.iconTitle {
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 2.125rem;
+}
+
+.iconCaption {
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+}

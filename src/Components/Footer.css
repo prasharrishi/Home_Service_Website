@@ -1,0 +1,12 @@
+.Footer{
+    margin-top: 10px;
+    font-size: 1.25rem;
+    position: relative;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #01486A;
+    text-shadow: none;
+    color: white;
+    padding: 1.938rem 7.5rem;
+}

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.nav-links {
+    text-decoration: none;
+    padding-right: 2.5rem;
+    color: black;
+    font-weight: 500;
+}
+
+.navigation {
+    z-index: 1;
+    text-shadow: 0;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2.4375rem;
+    padding-bottom: 2.4375rem;
+    padding-left: 7.5rem;
+    padding-right: 6rem;
+    position: sticky;
+    top: 0;
+}
+
+.nav-bar {
+    display: flex;
+}
+
+
+.app-logo {
+    text-decoration: none;
+    padding-right: 4rem;
+    color: #118AC5;
+    font-size: 1.375rem;
+    font-weight: 600;
+}
+
+.auth-button {
+    text-decoration: none;
+    color: white;
+    padding-left: 4rem;
+}
+
+.auth-button:hover {
+    color: white;
+}

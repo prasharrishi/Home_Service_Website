@@ -1,0 +1,44 @@
+.Introduction{
+    margin-top: 15rem;
+    padding-left: 7.5rem;
+    padding-right: 7.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-introduction{
+    margin-left: 4rem;
+}
+
+.mainHeading{
+    font-size: 3rem;
+    line-height: 2.875rem;
+    margin-bottom: 4px;
+}
+
+.subheading{
+    margin-top: 1.563rem;
+    margin-bottom: 2.625rem;
+    color: gray;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.another-flex{
+    display: flex;
+    margin-bottom: 0.75rem;
+}
+
+.text-another-flex{
+    margin-left: 1.25rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.hehe{
+    margin-left: 3.5rem;
+}
+
+.Group-Women{
+    object-fit: contain;
+}
